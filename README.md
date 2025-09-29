@@ -1,4 +1,4 @@
-# 🫀 Heart Disease Prediction & Clustering
+# Heart Disease Prediction & Clustering
 
 This project applies **machine learning** techniques to the [UCI Heart Disease dataset](https://archive.ics.uci.edu/ml/datasets/heart+disease).  
 It explores both **supervised learning (classification)** and **unsupervised learning (clustering)** to detect and analyze patterns related to heart disease.
